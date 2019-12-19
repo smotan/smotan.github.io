@@ -3,10 +3,9 @@ layout: default
 ---
 
 ## Introduction
-
+I am a second year language technology student, doing minor in computer science. I have studied Finnish language and culture before, after which I moved to study in Finland.
 My interests include translation, interpreting, formal linguistics and recently also programming. I like challenges, finding myself in new situations and learning from them. In the future I see myself as an NLP engineer.//
-In my free time I like to dance - my biggest love is Irish dance, but I do also some lindy hop and west coast swing.
-I also like to write and translate stories.
+In my free time I dance (a lot!), write and translate stories.
 
 ## Find me on
 
