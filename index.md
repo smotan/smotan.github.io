@@ -32,6 +32,9 @@ My email address is anna.smoter@helsinki.fi.
 ... and a lot of courses in Finnish language, culture and literature
 
 ## Projects
+[Github page](https://github.com/smotan/smotan.github.io)
+This is a project related to the command line tools for linguists-course at the University of Helsinki.
+I built a simple web page using Github pages.
 
 ## CV
 [See my cv in overleaf](https://www.overleaf.com/read/hznpxtkwsjbx)
