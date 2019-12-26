@@ -16,14 +16,14 @@ In my free time I dance (a lot!), write and translate stories.
 My email address is anna.smoter@helsinki.fi. 
 
 ## Courses I've Taken
-[Building NLP Applications](https://courses.helsinki.fi/en/KIK-LG211/), fall 2019\
+[Building NLP Applications](https://courses.helsinki.fi/en/KIK-LG211/), fall 2019<br>
 [Command line tools for linguists](https://courses.helsinki.fi/en/KIK-LG219/), fall 2019\
 [Introduction to Databases](https://courses.helsinki.fi/en/TKT10004/), fall 2019\
 [Morphology and Syntax](https://courses.helsinki.fi/en/KIK-LG102/), spring 2019\
 [Mathematics for Linguists](https://courses.helsinki.fi/en/KIK-LG209), spring 2019\
 [Programming for Linguists](https://courses.helsinki.fi/en/KIK-LG208), spring 2019\
 [Hungarian III](https://courses.helsinki.fi/en/KOK-G103), spring 2019\
-[Introduction to Language Technology](https://courses.helsinki.fi/en/KIK-404/), fall 2018\
+[Introduction to Language Technology](https://courses.helsinki.fi/en/KIK-405/), fall 2018\
 [Introduction to General Linguistics and Phonetics](https://courses.helsinki.fi/en/KIK-401/), fall 2018\
 [Advanced Course in Programming](https://courses.helsinki.fi/en/TKT10003/), fall 2018\
 [Introduction to Programming](https://courses.helsinki.fi/en/TKT10002), fall 2018\
@@ -34,4 +34,4 @@ My email address is anna.smoter@helsinki.fi.
 ## Projects
 
 ## CV
-[](/assets/documents/CV_AnnaSmoter_eng.pdf)
+[](https://www.overleaf.com/read/hznpxtkwsjbx)
